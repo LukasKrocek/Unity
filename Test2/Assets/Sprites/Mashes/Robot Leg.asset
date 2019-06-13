@@ -1,0 +1,365 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-7378588452630930299
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e715ea371f114f4a8d2584ad476634d, type: 3}
+  m_Name: Robot Leg_Data
+  m_EditorClassIdentifier: 
+  m_PivotPoint: {x: 523.7643, y: 328.91962}
+  m_Vertices:
+  - {x: 603, y: 443}
+  - {x: 590, y: 112}
+  - {x: 603, y: 224}
+  - {x: 487, y: 112}
+  - {x: 441.16672, y: 442.99997}
+  - {x: 462.19302, y: 332.0238}
+  - {x: 483.51285, y: 334.3202}
+  - {x: 543.91626, y: 332.2726}
+  - {x: 578.72504, y: 324.0823}
+  - {x: 584.9967, y: 326.94717}
+  - {x: 460.0349, y: 351.31284}
+  - {x: 574.68475, y: 347.04016}
+  m_BoneWeights:
+  - weight0: 1
+    weight1: 0
+    weight2: 0
+    weight3: 0
+    boneIndex0: 0
+    boneIndex1: 0
+    boneIndex2: 0
+    boneIndex3: 0
+  - weight0: 1
+    weight1: 0
+    weight2: 0
+    weight3: 0
+    boneIndex0: 0
+    boneIndex1: 0
+    boneIndex2: 0
+    boneIndex3: 0
+  - weight0: 1
+    weight1: 0
+    weight2: 0
+    weight3: 0
+    boneIndex0: 0
+    boneIndex1: 0
+    boneIndex2: 0
+    boneIndex3: 0
+  - weight0: 1
+    weight1: 0
+    weight2: 0
+    weight3: 0
+    boneIndex0: 0
+    boneIndex1: 0
+    boneIndex2: 0
+    boneIndex3: 0
+  - weight0: 1
+    weight1: 0
+    weight2: 0
+    weight3: 0
+    boneIndex0: 0
+    boneIndex1: 0
+    boneIndex2: 0
+    boneIndex3: 0
+  - weight0: 1
+    weight1: 0
+    weight2: 0
+    weight3: 0
+    boneIndex0: 0
+    boneIndex1: 0
+    boneIndex2: 0
+    boneIndex3: 0
+  - weight0: 1
+    weight1: 0
+    weight2: 0
+    weight3: 0
+    boneIndex0: 0
+    boneIndex1: 0
+    boneIndex2: 0
+    boneIndex3: 0
+  - weight0: 1
+    weight1: 0
+    weight2: 0
+    weight3: 0
+    boneIndex0: 0
+    boneIndex1: 0
+    boneIndex2: 0
+    boneIndex3: 0
+  - weight0: 1
+    weight1: 0
+    weight2: 0
+    weight3: 0
+    boneIndex0: 0
+    boneIndex1: 0
+    boneIndex2: 0
+    boneIndex3: 0
+  - weight0: 1
+    weight1: 0
+    weight2: 0
+    weight3: 0
+    boneIndex0: 0
+    boneIndex1: 0
+    boneIndex2: 0
+    boneIndex3: 0
+  - weight0: 1
+    weight1: 0
+    weight2: 0
+    weight3: 0
+    boneIndex0: 0
+    boneIndex1: 0
+    boneIndex2: 0
+    boneIndex3: 0
+  - weight0: 1
+    weight1: 0
+    weight2: 0
+    weight3: 0
+    boneIndex0: 0
+    boneIndex1: 0
+    boneIndex2: 0
+    boneIndex3: 0
+  m_Edges:
+  - index1: 0
+    index2: 4
+  - index1: 5
+    index2: 3
+  - index1: 1
+    index2: 3
+  - index1: 2
+    index2: 1
+  - index1: 2
+    index2: 9
+  - index1: 0
+    index2: 9
+  - index1: 5
+    index2: 10
+  - index1: 4
+    index2: 10
+  m_Holes: []
+  m_Indices: 03000000050000000600000003000000060000000200000002000000060000000700000007000000060000000a000000050000000a0000000600000004000000070000000a000000040000000000000007000000080000000200000007000000070000000b0000000800000009000000020000000800000000000000090000000b000000080000000b0000000900000007000000000000000b000000020000000100000003000000
+  m_BindPoses:
+  - bindPose:
+      e00: -0.010484425
+      e01: -0.99994504
+      e02: 0
+      e03: 0.03161371
+      e10: 0.999945
+      e11: -0.010484426
+      e12: 0
+      e13: 0.004187554
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0.00019645691
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    boneLength: 0.34
+    path: Leg
+    name: Leg
+    color: {r: 1, g: 0, b: 0, a: 1}
+    zOrder: 0
+  m_Blendshapes: []
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c10c0be6d28fe4d539c4a39822fe301c, type: 3}
+  m_Name: Robot Leg
+  m_EditorClassIdentifier: 
+  m_ApiVersion: 4
+  m_Sprite: {fileID: -3661318733167157442, guid: f80647b52409b2f4c982d7d8ecce8a7c,
+    type: 3}
+  m_SharedMesh: {fileID: 8086443829336387350}
+--- !u!43 &8086443829336387350
+Mesh:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Robot Leg
+  serializedVersion: 10
+  m_SubMeshes:
+  - serializedVersion: 2
+    firstByte: 0
+    indexCount: 42
+    topology: 0
+    baseVertex: 0
+    firstVertex: 0
+    vertexCount: 12
+    localAABB:
+      m_Center: {x: -0.0028015375, y: -0.08569936, z: 0}
+      m_Extent: {x: 0.13486107, y: 0.27583334, z: 0}
+  m_Shapes:
+    vertices: []
+    shapes: []
+    channels: []
+    fullWeights: []
+  m_BindPose:
+  - e00: -0.010484425
+    e01: -0.99994504
+    e02: 0
+    e03: 0.03161371
+    e10: 0.999945
+    e11: -0.010484426
+    e12: 0
+    e13: 0.004187554
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_BoneNameHashes: 
+  m_RootBoneNameHash: 0
+  m_BonesAABB:
+  - m_Min: {x: -0.15989439, y: -0.13546093, z: 0}
+    m_Max: {x: 0.39376894, y: 0.13807318, z: 0}
+  m_VariableBoneCountWeights:
+    m_Data: 
+  m_MeshCompression: 0
+  m_IsReadable: 1
+  m_KeepVertices: 1
+  m_KeepIndices: 1
+  m_IndexFormat: 0
+  m_IndexBuffer: 030005000600030006000200020006000700070006000a0005000a000600040007000a0004000000070008000200070007000b000800090002000800000009000b0008000b000900070000000b00020001000300
+  m_VertexData:
+    serializedVersion: 3
+    m_VertexCount: 12
+    m_Channels:
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 12
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 24
+      format: 0
+      dimension: 4
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 1
+      offset: 0
+      format: 0
+      dimension: 2
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 2
+      offset: 0
+      format: 0
+      dimension: 4
+    - stream: 2
+      offset: 16
+      format: 10
+      dimension: 4
+    m_DataSize: 960
+    _typelessdata: 9d3a073e7bb2423e000000000000000000000000000080bf0000803ff8b7e83200000000000080bfa715e23dd01ab9be000000000000000000000000000080bf0000803f0000000000000000000080bf9d3a073e141033be000000000000000000000000000080bf0000803f8931ad3300000000000080bf3dfa7abdd01ab9be000000000000000000000000000080bf0000803f11b37a3300000000000080bf6df70cbe77b2423e000000000000000000000000000080bf0000803fc73b023300000000000080bfc929d2bdae87a93b000000000000000000000000000080bf0000803f550f8ab400000000000080bf3d6489bdbf78133c000000000000000000000000000080bf0000803f65708f3300000000000080bf2292093d4b1eb73b000000000000000000000000000080bf0000803f797cbc3300000000000080bf7199bb3d411704bc000000000000000000000000000080bf0000803f513da8b300000000000080bfb501d13d7e7157bb000000000000000000000000000080bf0000803f933a133400000000000080bf9387d9bdfdde183d000000000000000000000000000080bf0000803febcc603200000000000080bffdcead3de567f73c000000000000000000000000000080bf0000803f808c43b400000000000080bf365e1a3fe6d0e23e3e0a173f4260e53d365e1a3f4260653e1158f93e4260e53d9be0e13ee5d0e23e91a4ec3e07ffa93e008ff73e052cab3e193e0b3fa31faa3e5327143f1eeea53e59c2153f9f65a73eb389eb3e47dfb33e8b1e133f40afb13e0000803f000000000000000000000000000000000000000000000000000000000000803f000000000000000000000000000000000000000000000000000000000000803f000000000000000000000000000000000000000000000000000000000000803f000000000000000000000000000000000000000000000000000000000000803f000000000000000000000000000000000000000000000000000000000000803f000000000000000000000000000000000000000000000000000000000000803f000000000000000000000000000000000000000000000000000000000000803f000000000000000000000000000000000000000000000000000000000000803f000000000000000000000000000000000000000000000000000000000000803f000000000000000000000000000000000000000000000000000000000000803f000000000000000000000000000000000000000000000000000000000000803f00000000000000000000000000000000000000000000000000000000
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UV:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Normals:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_FloatColors:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UVInfo: 0
+  m_LocalAABB:
+    m_Center: {x: -0.0028015375, y: -0.08569936, z: 0}
+    m_Extent: {x: 0.13486107, y: 0.27583334, z: 0}
+  m_MeshUsageFlags: 0
+  m_BakedConvexCollisionMesh: 
+  m_BakedTriangleCollisionMesh: 
+  m_MeshMetrics[0]: 1
+  m_MeshMetrics[1]: 1
+  m_MeshOptimizationFlags: 1
+  m_StreamData:
+    offset: 0
+    size: 0
+    path: 
